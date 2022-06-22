@@ -120,5 +120,5 @@ Finally run the server:
 And navigate to ```movies``` App address:
 
 ```
-http://localhost:8000/movies/
+http://localhost:8000/amostras/
 ```
